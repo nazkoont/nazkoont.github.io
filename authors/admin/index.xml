@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>/authors/admin/</link>
+      <atom:link href="/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Academic</title>
+      <link>/authors/admin/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;Welcome to my website! I am a second year PhD student in Finance at &lt;a href=&#34;https://www8.gsb.columbia.edu/cbs-directory/phd/NKoont23&#34; target=&#34;_blank&#34;&gt;Columbia Business School&lt;/a&gt;. I want to understand how financial stability is affected by globalization and recent trends in financial intermediation. I am also interested in the interplay between finance and political economy.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m originally from the Washington D.C. area. In 2018 I graduated from the University of Toronto with a BSc in math and economics, and a newfound appreciation for Canada. I enjoy trying to make sense of the world.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
